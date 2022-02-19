@@ -12,7 +12,14 @@ class App extends React.Component {
       };
     }
 
+product-component
   render (){
+=======
+// feature 1
+import React from 'react'
+
+function App() {
+ main
   return (
     <div className="grid-container">
       <header>
